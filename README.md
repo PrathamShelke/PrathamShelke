@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/PrathamShelke"><img src="https://img.shields.io/github/followers/PrathamShelke?label=Follow&style=social"></a>
   <a href="https://www.linkedin.com/in/prathamshelke/"><img src="https://img.shields.io/badge/LinkedIn-prathamshelke-blue?logo=linkedin"></a>
-  <a href="mailto:prathamshelke2903@gmail.com"><img src="https://img.shields.io/badge/email-prathamshelke2903@gmail.com-blue?logo=gmail"></a>
+  <a href="mailto:pratham2903learning@gmail.com"><img src="https://img.shields.io/badge/email-email-blue?logo=gmail"></a>
 </p>
 
 ---
@@ -69,7 +69,6 @@ Here are some ideas to get you started:
 ### 📫 Let's Connect
 
 - LinkedIn: [prathamshelke](https://www.linkedin.com/in/prathamshelke/)
-- Email: pratham2903learning@gmail.com
 
 ---
 
