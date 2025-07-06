@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 🎓 Final-year B.Tech (CSE-AIML) student at SPIT Mumbai  
 💼 Junior ML Lead at Newel Technologies | Ex-ML Intern @ LinuxWorld  
 🧠 Passionate about building scalable AI/ML solutions in GenAI, NLP, CV  
-🛠️ Skilled in Python, Scikit-learn, FastAPI, MLOps, LLMs, Docker, AWS, and more  
-📢 Love sharing knowledge and contributing to open-source projects
+🛠️ Skilled in Python, Scikit-learn,Pytorch,Langchain and more  
+📢 Love building end to end AI Solutions
 
 ---
 
@@ -50,9 +50,8 @@ Here are some ideas to get you started:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**FoodRush AI**](https://github.com/PrathamShelke/FoodRush-AI) | ML pipeline for food delivery time prediction with CI/CD | MLflow, DVC, FastAPI, Docker, AWS |
-| [**FinAgentIQ**](https://github.com/PrathamShelke/FinAgentIQ) | Multimodal QA system + CrewAI-based financial agent | LlamaIndex, Qdrant, CrewAI, Streamlit |
-| [**RealEstate Genie**](https://github.com/PrathamShelke/RealEstate-Genie) | Price prediction + QA chatbot + dashboard | XGBoost, Streamlit, LangChain |
+| [**FoodRush AI**](https://github.com/PrathamShelke/Swiggy_Delivery_Time_Prediction) | ML pipeline for food delivery time prediction with CI/CD | MLflow, DVC, FastAPI, Docker, AWS |
+| [**RealEstate Genie**](https://github.com/PrathamShelke/Real_Estate_Project) | Price prediction + QA chatbot + dashboard | XGBoost, Streamlit, LangChain |
 
 > *Find more in my pinned repositories.*
 
@@ -70,8 +69,7 @@ Here are some ideas to get you started:
 ### 📫 Let's Connect
 
 - LinkedIn: [prathamshelke](https://www.linkedin.com/in/prathamshelke/)
-- Twitter: [@pratham2903](https://twitter.com/pratham2903)
-- Email: prathamshelke2903@gmail.com
+- Email: pratham2903learning@gmail.com
 
 ---
 
