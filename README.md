@@ -38,10 +38,9 @@ Here are some ideas to get you started:
 ### 🧠 My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?style=flat-square&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=TensorFlow)
+![Pytorch](https://img.shields.io/badge/-Pytorch-green?style=flat-square&logo=TensorFlow)
 ![LangChain](https://img.shields.io/badge/-LangChain-blue?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
 ---
