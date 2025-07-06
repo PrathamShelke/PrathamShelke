@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **PrathamShelke/PrathamShelke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,13 +34,18 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧠 My Tech Stack
+### 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?style=flat-square&logo=scikit-learn)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-green?style=flat-square&logo=TensorFlow)
 ![LangChain](https://img.shields.io/badge/-LangChain-blue?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-ff69b4?style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-ff4b4b?style=flat&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![MLflow](https://img.shields.io/badge/-MLflow-blue?style=flat&logo=mlflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
 
 ---
 
@@ -64,13 +68,14 @@ Here are some ideas to get you started:
 </p>
 
 ---
+### 🏆 GitHub Trophies
 
-### 📫 Let's Connect
-
-- LinkedIn: [prathamshelke](https://www.linkedin.com/in/prathamshelke/)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrathamShelke&theme=dracula&no-bg=true&no-frame=true&column=6"/>
+</p>
 
 ---
 
-🧑‍💻 *"Driven by curiosity. Building intelligent systems for real-world impact."*
+🧑‍💻 *"Building intelligent systems for real-world impact."*
 
 
